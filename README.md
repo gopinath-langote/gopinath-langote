@@ -4,7 +4,7 @@ I am a Software Engineer with good experience in designing and implementing back
 
 I am currently working as a product engineer at [@GoJek](https://www.gojek.io/). I previously worked with [N26](https://n26.com/) GmbH, Berlin, Germany and [ThoughtWorks](https://www.thoughtworks.com/), Pune, India. Following topics that I am interested in – 
 
-- 👯 Java, Kotlin, Scala, Spring Framework, Postgres, Kafka, Cassandra, AWS, Kubernetes, Docker, CI/CD
+- 👯 Java, Kotlin, Scala, Go, Spring Framework, Postgres, Kafka, Cassandra, AWS, Kubernetes, Docker, CI/CD
 - 🕸️ Distributed Systems
 - 🌌 System design & scaling
 - ⚡ Data Structures and Algorithms
