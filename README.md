@@ -1,7 +1,5 @@
 ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FgopinathLangote%2F) 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/gopinathlangote/)
-&nbsp;
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](http://github.com/gopinath-langote/)
+
 
 ### Hi there 👋
 
