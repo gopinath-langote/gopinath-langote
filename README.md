@@ -11,6 +11,7 @@ I am currently working as a Lead Software Engineer at [@GoJek](https://www.gojek
 - 🌱 Contract Testing, Test-Driven Development (TDD)
 - 🔭 Agile practices, Pair Programming 
 
----
 
-![Twitter Follow](https://img.shields.io/twitter/follow/GopinathLangote?label=%40GopinathLangote&style=social)  ![GitHub followers](https://img.shields.io/github/followers/gopinath-langote?style=social) 
+<img src="https://profile-counter.glitch.me/gopinath-langote/count.svg">
+
+![Twitter Follow](https://img.shields.io/twitter/follow/GopinathLangote?label=%40GopinathLangote&style=social)    ![GitHub followers](https://img.shields.io/github/followers/gopinath-langote?style=social)  <a target="_blank" href="https://www.linkedin.com/in/gopinath-langote/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=social&logo=Linkedin"></img></a>
