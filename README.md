@@ -4,27 +4,11 @@
 
 I am currently working as a Lead Software Engineer at [@GoJek](https://www.gojek.io/). I previously worked with [N26](https://n26.com/) GmbH, Berlin, Germany and [ThoughtWorks](https://www.thoughtworks.com/), Pune, India. Following topics that I am interested in – 
 
-- 👯 Java, Kotlin, Scala, Go, Spring Framework, Postgres, Kafka, Cassandra, AWS, Kubernetes, Docker, CI/CD
+- 👯 Java, Kotlin, Scala, Go, Spring Boot, Postgres, Kafka, Redis, Cassandra, AWS, Kubernetes, Docker, CI/CD
 - 🕸️ Distributed Systems
 - 🌌 System design & scaling
 - ⚡ Data Structures and Algorithms
 - 🔭 Functional Programming
-- 😄 Microservices architecture
+- 📫 Microservices architecture
 - 🌱 Contract Testing, Test-Driven Development (TDD)
 - 🔭 Agile practices, Pair Programming 
-
-
-<!--
-**gopinath-langote/gopinath-langote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
