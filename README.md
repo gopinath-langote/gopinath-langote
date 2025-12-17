@@ -1,6 +1,6 @@
 👋 As an experienced Engineering Manager & Tech Leader, I bring a wealth of expertise in driving technical excellence, fostering innovation, and leading high-performing teams. With a strong background in software engineering and a passion for delivering impactful solutions, I thrive in dynamic environments where I can shape the technology landscape and inspire growth. 
 
-I am currently working as a Lead Software Engineer at [@GoJek](https://www.gojek.io/). I previously worked with [N26](https://n26.com/) GmbH, Berlin, Germany and [ThoughtWorks](https://www.thoughtworks.com/), Pune, India. Following topics that I am interested in – 
+I am currently working as a Engineering Manager at [@Phonepe](https://www.phonepe.com/). I previously worked with [Gojek](https://www.gojek.io/), [N26](https://n26.com/) GmbH, Berlin, Germany and [ThoughtWorks](https://www.thoughtworks.com/), Pune, India. Following topics that I am interested in – 
 
 Areas of Expertise:
 
